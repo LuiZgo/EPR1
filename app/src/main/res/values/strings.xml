@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPR</string>
+    <string name="IB">ImageButton</string>
+    <string name="notapp">NOTAPP</string>
+</resources>
